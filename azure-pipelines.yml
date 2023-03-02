@@ -11,7 +11,7 @@ resources:
       name: reddyabilash919/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: github.com/reddyabilash919/PowerAppsTestAutomation
+      endpoint: github.com_reddyabilash919
 
 parameters:
  - name: image
